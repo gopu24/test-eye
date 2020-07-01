@@ -1,0 +1,19 @@
+body {
+	background-color: #92a8d1;
+}
+	
+h1 {
+	text-align: center;
+	border: solid gray 1px;
+	background-color: pink;
+}
+p {
+	font-size: 20px;
+}
+
+footer {
+	text-align: center;
+	background-color: black;
+	border: solid black 1px;
+	color: white;
+}
